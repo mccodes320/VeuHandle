@@ -1,3 +1,24 @@
+1. Vue 3 框架簡介
+1.1 用來組織、簡化複雜的網頁開發
+1.2 基於 HTML、CSS、JavaScript
+1.3 模板、回應式、組件設計
+1.4 漸進式框架
+
+2. Vue 3 課程簡介
+2.1 須具備 HTML、CSS、JavaScript 基礎
+2.2 主要學習目標為前後端分離式的單一頁面網站應用
+2.3 採用 Composition API
+2.4 採用 Single File Components
+
+3. Vue 3 專案快速開始
+3.1 安裝 VS Code、Node.js
+3.2 使用終端機命令介面
+3.3 建立 Vue 專案資料夾
+3.4 安裝第三方套件
+3.5 執行、測試範例網頁 
+
+
+
 1. 
 2. 下載 node.js: Node.js v22.11.0 (LTS)
 https://nodejs.org/zh-tw
@@ -28,6 +49,26 @@ https:/go.microsoft.com/fwlink/?LinkID=135170) 中所述的安全性風險。您
 
 
 D:\VeuHandle>
+
+### 執行 
+
+PS D:\VeuHandle\vue-training> npm run dev
+
+![image](https://github.com/user-attachments/assets/92631579-598f-4360-9c9f-7cbd105ce2db)
+
+![image](https://github.com/user-attachments/assets/88cd40c1-87d6-46c3-9be0-69dff60411d3)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
