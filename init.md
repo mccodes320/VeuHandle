@@ -48,6 +48,36 @@ PS D:\VeuHandle\vue-training> npm run dev
 ![image](https://github.com/user-attachments/assets/88cd40c1-87d6-46c3-9be0-69dff60411d3)
 
 
+### 資料夾介紹
+
+![image](https://github.com/user-attachments/assets/6b2f3f4d-952d-434d-9427-b83faf06c607)
+
+node_modules: 存放項目所安裝的所有依賴
+public : 靜態資源目錄, 存放不需經過Webpack打包的資源文件
+src: 主要原代碼目錄，包含所有的Vue組件、樣式和邏輯
+    Component這個目錄,是放置我們所有Vue組件的文件夾。
+    SRC的根目錄這邊有一個app.vue,這個是我們應用的根組件。
+    main.js: 應用的入口文件,主要是用於初始化Vue的實例,並掛載到DOM。
+    
+![image](https://github.com/user-attachments/assets/3b4ced10-0123-4895-a304-24ecd4e7a0cf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
