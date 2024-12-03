@@ -1,7 +1,3 @@
-1. Vue 3 框架簡介  
-2. Vue 3 專案快速開始
-
-
 1. 
 2. 下載 node.js: Node.js v22.11.0 (LTS)  
 https://nodejs.org/zh-tw  
